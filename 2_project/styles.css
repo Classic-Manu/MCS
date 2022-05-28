@@ -1,0 +1,13 @@
+h1, h2 {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+body {
+    margin: 50px;
+}
+
+p {
+    margin-bottom: 20px;
+}
